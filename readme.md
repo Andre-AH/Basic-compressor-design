@@ -2,6 +2,8 @@
 
 This repository contains a 3D model of a compressor part created in **FreeCAD**. 
 
+![Alt text](Compressor.png)
+
 ## Files
 - `Compressor.FCStd` - The main FreeCAD file containing the compressor part model.
 - images - rendered images of the model.
